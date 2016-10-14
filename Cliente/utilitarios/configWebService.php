@@ -1,5 +1,5 @@
 <?php
-	$server = 'http://localhost/';
+	$server = 'http://vestibulapp.esy.es/';
 	$service = 'WebService/';
 	$folder = 'Service/';
 
